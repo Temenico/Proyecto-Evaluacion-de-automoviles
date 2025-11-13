@@ -1,5 +1,7 @@
-# Conclusiones del Análisis: Evaluación de Automóviles
+# Conclusiones del Análisis: Evaluación de Automóviles 🚗
+Curso: Minería de datos - EDA | Grupo: 10.
 
+Integrantes: Tello Mendez Nicolás, Buitrago Murcia Jersson Fabián.
 ## 1. Resumen del análisis
 
 Se utilizó el dataset Car Evaluation (UCI), compuesto por 1,728 registros y 7 variables principales (compra, mantenimiento, puertas, personas, baúl, seguridad, clase). El análisis siguió los pasos estructurados: importación de librerías, carga y limpieza de datos, tratamiento de valores faltantes, conversión de variables categóricas, análisis descriptivo, visualización de distribuciones, análisis de correlación, test de normalidad, enfoque de predicción, modelado (regresión lineal) y evaluación de resultados.
